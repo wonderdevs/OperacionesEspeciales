@@ -9,7 +9,7 @@ Cada personaje tiene:
 ## Nivel
 
 El nivel explica de forma genérica lo "bueno" que es tu personaje en su campo. 
-A medida que subes de nivel, ganarás Atributos, Competencias y Acciones
+A medida que subes de nivel, ganarás Atributos, Competencias y Acciones.
 
 ## Atributos:
 
@@ -18,20 +18,33 @@ Los atributos son la base de lo que es capaz de hacer el personaje. Estos atribu
 ##### Voluntad - VOL:
 Tu capacidad de aguantar situaciones adversas, esto determina las Condiciones que tu personaje se puede encontrar dentro y fuera de combate. Influye también en tu capacidad de interrogar y persuadir.
 
-##### Resistencia – RES (Aguante / estamina): 
+##### Resistencia - RES (Aguante / estamina): 
 Lo fuerte que eres, y lo que eres capaz de cargar. Un personaje con mucho aguante no solo podrá aguantar un par de tiros más, si no que lo podrá hacer con más equipamiento encima.
 
 ##### Percepción - PER: 
 La capacidad que tienes de detectar a un francotirador oculto o a un objetivo en toda una multitud.
 
-##### Sigilo SIG: 
+##### Sigilo - SIG: 
 Tu capacidad de hacer cagar camuflado.
 
-##### Agilidad AGI: 
+##### Agilidad - AGI: 
 Lo rápido que eres capaz de reaccionar, también se usa para esquivar balas.
 
-##### Vida HP: 
+
+
+### Atributos derivados:
+
+Algunos atributos dependen de los valores de otros. Así que los metemos aquí.
+
+##### Vida - HP: 
 Las hostias que puedes aguantar.
+Determinado por: 1d4 + La mitad de tu ([[Características#Voluntad - VOL:|VOL]] + [[Características#Resistencia – RES (Aguante / estamina):|RES]]) (redondeado hacia abajo).
+Puede ser influido por las Ventajas de cada clase.
+
+#### Velocidad - SPD:
+Medida en metros. Influye en el movimiento que puede ejecutar tu personaje en un periodo de tiempo.
+Determinado por: [[TODO]].
+Puede ser influido por las Ventajas de cada clase.
 
 ## Competencias
 
@@ -79,4 +92,4 @@ Aquí hay una lista orientativa de competencias, que puede ser expandida según 
 La unidad básica de lo que puedes hacer. 
 Hay acciones que son comunes a todos los personajes, como Disparar, pero otras dependen de la clase, como Reanimar, en el caso del Médico.
 
-//TODO: CREAR UNA LISTA DE ACCIONES
+[[TODO]] crear una lista de acciones.
