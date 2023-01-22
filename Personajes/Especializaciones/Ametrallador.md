@@ -1,4 +1,4 @@
-- Requisitos: [[Estadisticas#Resistencia – RES (Aguante / estamina):|RES]] 3
+- Requisitos: [[Estadísticas#Resistencia – RES (Aguante / estamina):|RES]] 3
 
 Esta clase se especializa en control de área, supresión de objetivos.
 
