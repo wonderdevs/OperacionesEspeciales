@@ -12,7 +12,8 @@ kanban-plugin: basic
 - [ ] AÑADIR COMPETENCIAS
 - [ ] AÑADIR INVENTARIO
 - [ ] Crear Nota que contenga el sistema entero en orden
-- [ ] CREAR PLANTILLA HOJA PERSONAJE
+- [ ] AÑADIR GLOSARIO
+- [ ] AÑADIR INTRODUCCION TTRPG
 
 
 ## IN PROGRESS

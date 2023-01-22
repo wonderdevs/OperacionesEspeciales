@@ -8,7 +8,7 @@ NV1 - Accion: Primeros Auxilios
 	Restaura puntos de salud equivalentes al VOL
 NV2 - Accion: Restaurar Estado
 	Permite quitar cualquier estado a un personaje
-NV3 - Let's Practice Medicine
+NV3 - Let's Go Practice Medicine
 	Todo equipamiento medico tiene el doble de usos
 NV4 - Upgrades people Upgrades.
 	Mejora de Rasgos: \[+2, +1\]
