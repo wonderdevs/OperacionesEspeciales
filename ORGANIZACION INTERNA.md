@@ -44,9 +44,9 @@ CQC - Añadir un turno Adicional?
 # REFS
 
 Stats
-[[Estadísticas#Voluntad - VOL:|VOL]]
-[[Estadísticas#Resistencia – RES (Aguante / estamina):|RES]]
-[[Estadísticas#Percepción - PER:|PER]]
-[[Estadísticas#Sigilo SIG:|SIG]]
-[[Estadísticas#Agilidad AGI:|AGI]]
-[[Estadísticas#Vida HP:|HP]]
+[[Características#Voluntad - VOL:|VOL]]
+[[Características#Resistencia – RES (Aguante / estamina):|RES]]
+[[Características#Percepción - PER:|PER]]
+[[Características#Sigilo SIG:|SIG]]
+[[Características#Agilidad AGI:|AGI]]
+[[Características#Vida HP:|HP]]

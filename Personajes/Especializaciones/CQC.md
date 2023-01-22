@@ -1,11 +1,11 @@
-- Requisitos: [[Estadísticas#Agilidad AGI:|AGI]] 3
+- Requisitos: [[Características#Agilidad AGI:|AGI]] 3
 
 Esta clase se dedica al combate en corta distancia, con una gran agilidad, movilidad.
 Esta es una de las clases que permite opciones no letales a la hora de combatir.
 
 NV1 - Arms Like Arms.
 	Accion: Golpear.
-	Permite ejecutar tiradas de ataque estando desarmado, usando [[Estadísticas#Resistencia – RES (Aguante / estamina):|RES]] \* 2 como modificador de proficiencia, una cadencia de 1, y un daño de de tu [[Estadísticas#Resistencia – RES (Aguante / estamina):|RES]]
+	Permite ejecutar tiradas de ataque estando desarmado, usando [[Características#Resistencia – RES (Aguante / estamina):|RES]] \* 2 como modificador de proficiencia, una cadencia de 1, y un daño de de tu [[Características#Resistencia – RES (Aguante / estamina):|RES]]
 NV2 - SPEED SPEED BOY.
 	Ganas un 50% a tu velocidad de movimiento
 NV3 - Non Lethal Arms
