@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] Crear Nota que contenga el sistema entero en orden
 - [ ] AÑADIR GLOSARIO
 - [ ] AÑADIR INTRODUCCION TTRPG
+- [ ] CREAR PLANTILLA HOJA DE PERSONAJE
 
 
 ## IN PROGRESS
