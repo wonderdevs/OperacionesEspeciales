@@ -1,14 +1,19 @@
 ## Bio:
 
-Cada personaje tiene: Su nombre, rango, trasfondo y descripción física.
+Cada personaje tiene:
+- Nombre
+- Rango
+- Trasfondo
+- Descripción física.
 
 ## Nivel
 
-El nivel explica de forma generica lo "bueno" que es tu personaje en su campo
+El nivel explica de forma generica lo "bueno" que es tu personaje en su campo. 
+A medida que subes de nivel, ganarás Atributos, Competencias y Acciones
 
-## Atributos
+## Atributos:
 
-Hay dos tipos de atributos. Los que son innatos a tu personaje y empiezas con ellos (e irán mejorando levemente mientras se suba de nivel) y las competencias, que resumen tu conocimiento y habilidad con ciertas armas, herramientas, vehículos o sabiduría sobre ciertos temas.
+Los atributos son la base de lo que es capaz de hacer el personaje. Estos atributos podrán aumentarse a determinados niveles.
 
 ##### Voluntad - VOL:
 Tu capacidad de aguantar situaciones adversas, esto determina los debuffs que tu personaje se puede encontrar dentro y fuera de combate, también cuenta como tus capacidades de intimidación y persuasión
@@ -67,3 +72,11 @@ Aqui hay una lista orientativa de competencias, que puede ser expandida segun tr
 	- Exteriores - *Predecir el tiempo, exploracion del terreno*
 	- Medicina
 	- Navegacion
+
+
+## Acciones
+
+La unidad básica de lo que puedes hacer. 
+Hay acciones que son comunes a todos los personajes, como Disparar, pero otras dependen de la clase, como Reanimar, en el caso del Médico.
+
+//TODO: CREAR UNA LISTA DE ACCIONES

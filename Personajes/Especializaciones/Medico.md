@@ -1,4 +1,4 @@
-- Requisitos: [[Estadísticas#Voluntad - VOL:|VOL]] 3
+- Requisitos: [[Características#Voluntad - VOL:|VOL]] 3
 
 El medico es la clase que es capaz de curar a compañeros y hasta sacarles de la tumba.
 

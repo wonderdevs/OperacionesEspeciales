@@ -1,4 +1,4 @@
-- Requisitos [[Estadísticas#Percepción - PER:|PER]] 3
+- Requisitos [[Características#Percepción - PER:|PER]] 3
 
 El francotirador es especialista en disparos a larga distancia que hacen un daño devastador, sacrificando turnos para ganar precisión. Tambien es capaz de moverse con precisión.
  Alternativamente también puede hacer funciones de reconocimiento.
