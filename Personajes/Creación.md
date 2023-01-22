@@ -1,4 +1,4 @@
-El perosnaje es lo que vas a manejar a lo largo de las aventuras en el mundo que el Maestro de juego presenta ante vosotros. El personaje es tu avatar en dicho mundo, y todo lo que experimentas lo vives a través de él.
+El perosnaje es lo que vas a manejar a lo largo de las aventuras en el mundo que el DJ presenta ante vosotros. El personaje es tu avatar en dicho mundo, y todo lo que experimentas lo vives a través de él.
 
 Hay varias maneras de pensar en un personaje, pero lo mínimo necesario para jugarlo está en la sección [[Características]]. Si además de eso quieres dar más detalles por diversión, bienvenido seas. 
 
