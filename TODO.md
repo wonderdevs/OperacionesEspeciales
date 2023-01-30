@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] AÑADIR GLOSARIO
 - [ ] AÑADIR INTRODUCCION TTRPG
 - [ ] CREAR PLANTILLA HOJA DE PERSONAJE
+- [ ] Mirar forma para lanzar manualmente granadas.
 
 
 ## IN PROGRESS
