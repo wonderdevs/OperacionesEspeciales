@@ -9,7 +9,7 @@ NV1 - The Basics
 	Cada carga tiene que tener una forma de activacion 
 	dichas cargas se pueden activar de varias formas que se tiene que especificar antes de usarla.
 - Activacion Remota (A voluntad del jugador como accion libre) 
-- Temporizada (En nº de turnos)
+- Temporizada (En nº de turnos, o tiempo estandar)
 - Por proximidad (Rango: Casilla adyacente)
 - Granada (funciona como una granada convencional)
 NV2 - Un-Boom
@@ -26,7 +26,7 @@ NV6 - Advanced Basics
 - Por presion: Explota al contacto.
 NV7 - Conocimiento del medio
 	Puedes usar 1 carga para bloquear 1 casilla de enemigos o ataques enemigos (como si pusieses un escudo o alambre de espino)
-	Puedes usar 5 cargas para modificar temporalmente el escenario (destruir una cobertura enemiga, eliminar una viga y provocar escombros)
+	Puedes usar 5 cargas para modificar el escenario (destruir una cobertura enemiga, eliminar una viga y provocar escombros)
 NV8 - Upgrades people Upgrades.
 	Mejora de Rasgos: \[+2, +2\]
 	Mejora de Competencias \[+3,+3,+2\]

@@ -17,5 +17,4 @@ NV5 - The Basics
 	dichas cargas se pueden activar de varias formas que se tiene que especificar antes de usarla.
 - Activacion Remota (A voluntad del jugador como accion libre) 
 - Temporizada (En nº de turnos)
-- Por presion 
 - Granada (funciona como una granada convencional)

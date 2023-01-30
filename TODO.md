@@ -6,16 +6,16 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] SISTEMA SIGILO
-- [ ] SISTEMA CORDURA
 - [ ] SISTEMA COMPETENCIAS
 - [ ] AÑADIR COMPETENCIAS
 - [ ] AÑADIR INVENTARIO
-- [ ] Crear Nota que contenga el sistema entero en orden
-- [ ] AÑADIR GLOSARIO
-- [ ] AÑADIR INTRODUCCION TTRPG
+- [ ] SISTEMA SIGILO
+- [ ] SISTEMA CORDURA
 - [ ] CREAR PLANTILLA HOJA DE PERSONAJE
 - [ ] Mirar forma para lanzar manualmente granadas.
+- [ ] AÑADIR INTRODUCCION TTRPG
+- [ ] Crear Nota que contenga el sistema entero en orden
+- [ ] AÑADIR GLOSARIO
 
 
 ## IN PROGRESS
