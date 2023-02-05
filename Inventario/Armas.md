@@ -1,12 +1,14 @@
-Las armas es una de las partes mas fundamentales del juego. Todas las armas tienen sus características y se representan de la siguiente manera:
- Tipo – Cargador – Cadencia – Rango Optimo – Daño – Tipo Munición – Tamaño – Peso
+Las armas forman una de las partes fundamentales del juego.
 
-En caso de tener una característica especial se añadirá después.
+Todas las armas tienen sus características y se representan de la siguiente manera:
+ Tipo – Cargador – Cadencia – Rango óptimo – Daño – Tipo Munición – Tamaño – Peso
+
+En caso de tener una característica especial se añadirá al final.
  EJ:
  M240
  Ametralladora Ligera – 12(Cinta) – 3 – Corto-Medio – 1 – Estándar – Medio – Grande
  Acción, Montar/Desmontar: Gastando un turno puedes apoyar el arma en una superficie, considerándose un arma estática.
- Esto reduce tu movimiento a cero, aumenta el rango del arma a Corto-Largo, y elimina la penalización de precisión por el tipo de arma. El arma se considerará desmontada cuando el jugador mueva su posición.
+ Ésto reduce tu movimiento a cero, aumenta el rango del arma a Corto-Largo, y elimina la penalización de precisión por el tipo de arma. El arma se considerará desmontada cuando el jugador mueva su posición.
 
 M202 flash
  Lanzamisiles – 4 – 1 – Medio-Extremo – 5 – Explosiva – Grande – Grande
@@ -14,16 +16,16 @@ M202 flash
 
 ULR 153-SB
  Francotirador – 1 – 1 – Largo-Extremo – 8 – Penetrante – Grande – Grande
- Este rifle ignora 10 puntos de armadura al objetivo y es capaz de atravesar coberturas como paredes de ladrillo y blindajes ligeros (5cm de Acero).
+ Éste rifle ignora 10 puntos de armadura al objetivo y es capaz de atravesar coberturas como paredes de ladrillo y blindajes ligeros (5cm de acero).
 
 USAS 12 - FRAG
  Escopeta – 3 – 2 – Corto-Medio – 8 – AntiMateria – Media – Media
- Area de impacto: 10m
+ Área de impacto: 10m
  Ignora Esquiva.
  Ignora Sigilo.
  Deniega Cobertura.
 
-_Tipos de armas:_
+#### Tipo:
 
 El tipo de arma describe las características generales de esta.
 
@@ -37,12 +39,12 @@ El tipo de arma describe las características generales de esta.
 - RPG - LanzaProyectiles: Daño Explosivo y Daño en área.
 - FLA - Lanzallamas: Daño en área. Denegación de área.
 
-1. Las carabinas están dentro de los fusiles y las PDW están dentro de las SMG
- 2. En Lanzaproyectiles también consideramos lanzagranadas, bazookas, y lanzamisiles
+1. Las carabinas están dentro de los fusiles y las PDW están dentro de las SMG.
+2. En Lanzaproyectiles también consideramos lanzagranadas, bazookas, y lanzamisiles.
 
 #### Cadencia:
 
-La cadencia especifica cuantas veces puede disparar un arma por turno
+La cadencia especifica cuántas veces puede disparar un arma por turno
 
 - Tiro a Tiro (1)
 
@@ -53,7 +55,7 @@ La cadencia especifica cuantas veces puede disparar un arma por turno
 
 #### Daño
 
-Todas las armas hacen daño penetrante al no sé qué se especifique lo contrario.
+Todas las armas hacen daño penetrante salvo que se especifique lo contrario.
 
 - Arma de mano: 1
 

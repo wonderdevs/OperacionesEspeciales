@@ -26,7 +26,7 @@
   2. Militar
     1. Uniforme (+2 Sigilo)
     2. [Ghillie](https://es.wikipedia.org/wiki/Ghillie) (+5 Sigilo)
-2. Equipamiento medico
+2. Equipamiento médico
   1. Kit de primeros auxilios (1, 2 usos)
   2. Botiquín medico (1d4, 4 usos, Requerimiento clase: Medico)
   3. Kit de campaña (1d8, 4 usos, Requerimiento clase: Medico)
