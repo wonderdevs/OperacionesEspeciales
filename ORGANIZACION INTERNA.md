@@ -50,3 +50,6 @@ Stats
 [[Características#Sigilo SIG:|SIG]]
 [[Características#Agilidad AGI:|AGI]]
 [[Características#Vida HP:|HP]]
+
+
+Que le jodan al sigilo... que sea un bonus a la esquiva y listo.

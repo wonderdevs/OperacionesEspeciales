@@ -30,8 +30,6 @@ Tu capacidad de hacer cagar camuflado.
 ##### Agilidad - AGI: 
 Lo rápido que eres capaz de reaccionar, también se usa para esquivar balas.
 
-
-
 ### Atributos derivados:
 
 Algunos atributos dependen de los valores de otros. Así que los metemos aquí.
@@ -43,53 +41,30 @@ Puede ser influido por las Ventajas de cada clase.
 
 #### Velocidad - SPD:
 Medida en metros. Influye en el movimiento que puede ejecutar tu personaje en un periodo de tiempo.
-Determinado por: [[TODO]].
-Puede ser influido por las Ventajas de cada clase.
+Determinado por: ([[Características#Agilidad - AGI:|AGI]]) + 2
 
-## Competencias
+Cuando el peso de tu equipamiento es superior a tu [[Características#Resistencia - RES (Aguante / estamina):|RES]] empezaras a perder velocidad.
+El peso se calcula de la siguiente manera.
+Por cada item pesado se suma 1 punto de peso.
+cada item mediano suma medio punto
+y cada item ligero suma un cuarto de punto.
 
-Las competencias implican cualquier tipo de habilidad o conocimiento que no puede ser derivado de los rasgos principales (por ejemplo habilidades de cocina, conducción o conocimientos de electrónica o arquitectura).
+Por ejemplo: Si tu personaje tiene 4 de [[Características#Resistencia - RES (Aguante / estamina):|RES]] puede llevar 4 objetos pesados o 8 objetos medianos o 16 objetos pequeños. 
 
-También son necesarias para determinar tu habilidad con cada arma o categoría de armas.
+Estos son acumulables. Asi que si tienes un jugador que lleva 1 items medianos y 2 items ligeros. Pierde uno de veloicidad por la acumulacion de pesos.
+(1 pesado => 2 medianos => 4 ligeros)
+(1 mediano => 2 ligeros)
+Asi que la forma mas facil de calcular la penalizacion es convertir todos los pesos a ligeros y dividir entre cuatro para calcular los puntos.
 
-Aquí hay una lista orientativa de competencias, que puede ser expandida según transcurra el juego o disminuida para adaptarse al juego.
+#### Esquiva
+La esquiva es la misma que la [[Características#Agilidad - AGI:|AGI]
 
-- Armas
-	- SMG
-	- HND
-	- SHT
-	- ASR
-	- SNP
-	- LMG
-	- HMG
-	- RPG
-	- FLA
-- Conducción / Pilotaje
-	- Motos
-	- Coches / Furgonetas
-	- Camiones / Trailers / Autobuses
-	- Maquinaria pesada
-	- Vehículos acorazados
-	- Helicópteros
-	- Aviones
-	- Embarcaciones Ligeras / Medianas
-	- Embarcaciones Pesadas / Super Pesadas
-- Ingeneria
-	- Electrónica / Eléctrica
-	- Civil / Arquitectura
-	- Mecánica / Industrial
-	- Tecnologías de la Información / Telecomunicaciones
-- Misc
-	- Explosivos
-	- Forzar Cerraduras
-	- Exteriores - *Predecir el tiempo, exploración del terreno*
-	- Medicina
-	- Navegación
+## Caracteristicas
+
+Empiezas sin caracteristicas y segun la clase que escogas al princpio se te añadiran algunas. Tambien puedes empezar con caracteristicas segun tu transfondo, bajo la eleccion del DM. 
 
 
 ## Acciones
 
-La unidad básica de lo que puedes hacer. 
-Hay acciones que son comunes a todos los personajes, como Disparar, pero otras dependen de la clase, como Reanimar, en el caso del Médico.
+Empiezas con todas las acciones descritas en [[Conflicto Armado#Acciones|Acciones]]
 
-[[TODO]] crear una lista de acciones.
