@@ -93,6 +93,7 @@ Es la distancia en la que el arma es mas efectiva. Si estas fuera de rango. Toma
 - Mediano (M)
 - Grande (G)
 - Enorme (GG)
+ *El tamaño enano o menor no cuenta para los calculos de tamaño*
 
 #### Peso
 
@@ -101,6 +102,7 @@ Es la distancia en la que el arma es mas efectiva. Si estas fuera de rango. Toma
 - Mediano (M)
 - Pesado (P)
 - Muy Pesado (PP)
+  *El peso Muy Ligero o inferior no cuenta para los calculos de peso*
 
 ### Listado Armas
 | Nombre      | Tipo | Cargador | Cadencia | Daño | Tipo Municion | Rango Optimo | Tamaño | Peso | Descripcion |
