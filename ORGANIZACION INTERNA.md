@@ -35,6 +35,17 @@ De ser asi. a los mismos niveles o a diferentes niveles? Dejamos escojer que sta
 
 random idea. hacer que la clase de SpecOps no pueda subir stats, ya que va a tener las acciones de la mayoria de personajes. 
 
+### PROGRESION CLASES
+
+NV1 - key skill
+NV2 - Good upgrade
+NV3 - QOL feature
+NV4 - Upgrades
+NV5 - Improved Key Skill
+NV6 - Extra Skill
+NV7 - Better QOL
+NV8 - Final Upgrades
+
 
 # Ideas aleatorias
 
