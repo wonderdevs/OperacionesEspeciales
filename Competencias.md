@@ -1,6 +1,3 @@
--ish
-## Competencias
-
 Las competencias implican cualquier tipo de habilidad o conocimiento que no puede ser derivado de los rasgos principales (por ejemplo habilidades de cocina, conducción o conocimientos de electrónica o arquitectura).
 
 También son necesarias para determinar tu habilidad con cada arma o categoría de armas.
@@ -9,8 +6,8 @@ Aquí hay una lista orientativa de competencias, que puede ser expandida según 
 
 ## Funcionamiento
 
-Hay 3 formas de hacer tiradas de competencia.
-Para hacer una tirada de competencia es necesario tenerla. En lo contrario, se puede usar un atributo. 
+Hay 3 formas de hacer tiradas de competencia. (Para superar una accion, para enfrentarte a alguien o para superar una en grupo)
+Para hacer una tirada de competencia es necesario tenerla. En lo contrario, a discreccion del DM se puede usar un atributo. O si no se tiene especificada tendra un valor de -5
 1. Tirada de habilidad
 	El DM dara un nivel de dificultad a la accion que deberas realizar
 	Tiras un D6 y le sumas la proficiencia.
@@ -22,7 +19,7 @@ Para hacer una tirada de competencia es necesario tenerla. En lo contrario, se p
 	En el caso que varias personas quieran hacer una tirada de habilidad conjunta. Todos los participantes tiraran un d4 + proficiencias y se sumaran todas al resultado.
 	Si ese numero es igual o superior al nivel de dificultad, habras superado la tirada
 
-## Lista
+## Lista Ejemplos competencias.
  - Armas
 	- SMG
 	- HND

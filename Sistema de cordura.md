@@ -4,7 +4,7 @@ El sistema funciona de esta manera.
 
 Tienes [[Características#Voluntad - VOL:|VOL]] * 4 puntos de cordura.
 
-Cada vez que veas un evento traumatico tendras que pasar una tirada de habilidad [[Fuera de Combate#Competencias|VOL]]  
+Cada vez que veas un evento traumatico tendras que pasar una tirada de habilidad [[Competencias#Competencias|VOL]]  
 Si la superas no pasa nada y la partida sigue.
 El nivel de dificultad depende del evento en si. (No es lo mismo ver a un enemigo muerto que ser torturado durante horas)
 

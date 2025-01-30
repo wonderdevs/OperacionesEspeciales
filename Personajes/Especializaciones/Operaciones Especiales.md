@@ -14,9 +14,12 @@ NV4 - Arms Like Arms.
 	Acción: Noquear, haciendo una tirada de golpear con éxito puedes aturdir a un enemigo durante un turno
 	Acción: Desarmar, haciendo una tirada de golpear con éxito puedes desarmar a un enemigo
 NV5 - The Basics
-	Obtienes 5 cargas de explosivo plastico.
+	Obtienes 5 cargas de explosivo plástico.
 	Cada carga hace 5 de daño en un área de 3m a la redonda.
 	Cada carga tiene que tener una forma de activación, y dichas cargas se pueden activar de varias formas que se tiene que especificar antes de usarla.
 - Activación Remota (A voluntad del jugador como acción libre) 
 - Temporizada (En nº de turnos)
 - Granada (funciona como una granada convencional)
+NV6 - Last Wish
+	Cuando tu vida llega a 0 HP o menos. Puedes realizar inmediatamente una acción. 
+

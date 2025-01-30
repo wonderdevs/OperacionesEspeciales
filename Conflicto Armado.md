@@ -16,7 +16,11 @@ El movimiento el diagonal sigue la regla 1-2 es decir que el primer movimiento e
 ## Acciones
 
 - Disparar
-	Formula: `(Cadencia * (cs Prof >= Esquiva)) * Daño – Armadura`
+	El ataque se realiza con unas tirada de profiencia con el arma contra la esquiva del enemigo, haces tantas tiradas de ataque tanto como cadencia tenga tu arma. 
+	
+	Por cada bala impactada esta hara un daño fijo que es el daño del arma menos el armadura del enemigo. (Algunos tipos de municion tienen efectos especiales)
+	
+	Formula: `(Cadencia * (cs Prof > Esquiva)) * Daño – Armadura`
 	
 	Digamos que la cadencia del arma son 4 tienes una proficiencia de 1d6, tu modificador de daño es 2. Y el enemigo tiene una esquiva de 3, y una armadura de 1.
 	

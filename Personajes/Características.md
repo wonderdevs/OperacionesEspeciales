@@ -36,7 +36,7 @@ Algunos atributos dependen de los valores de otros. Así que los metemos aquí.
 
 ##### Vida - HP: 
 Las hostias que puedes aguantar.
-Determinado por: 1d4 + La mitad de tu ([[Características#Voluntad - VOL:|VOL]] + [[Características#Resistencia – RES (Aguante / estamina):|RES]]) (redondeado hacia abajo).
+Determinado por: 1d4 + La mitad de tu ([[Características#Voluntad - VOL:|VOL]] + [[Características#Resistencia – RES (Aguante / estamina):|RES]]) (redondeado hacia arriba).
 Puede ser influido por las Ventajas de cada clase.
 
 #### Velocidad - SPD:
@@ -57,11 +57,11 @@ Estos son acumulables. Asi que si tienes un jugador que lleva 1 items medianos y
 Asi que la forma mas facil de calcular la penalizacion es convertir todos los pesos a ligeros y dividir entre cuatro para calcular los puntos.
 
 #### Esquiva
-La esquiva es la misma que la [[Características#Agilidad - AGI:|AGI]
+La esquiva es la misma que la [[Características#Agilidad - AGI:|AGI]]
 
-## Caracteristicas
+## Competencias
 
-Empiezas sin caracteristicas y segun la clase que escogas al princpio se te añadiran algunas. Tambien puedes empezar con caracteristicas segun tu transfondo, bajo la eleccion del DM. 
+Empiezas sin Competencias y segun la clase que escogas al princpio se te añadiran algunas. Tambien puedes empezar con Competencias segun tu transfondo, bajo la eleccion del DM. 
 
 
 ## Acciones

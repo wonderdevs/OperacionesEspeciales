@@ -23,7 +23,7 @@ Deniega Cobertura.
 
 #### Tipo:
 
-El tipo de arma describe las características generales de esta.
+El tipo de arma describe las características generales de esta. Algunas armas pueden tener caracteristicas y acciones exclusivas a estas
 
 - HND - Armas de mano: Ligeras, pequeñas y fáciles de ocultar.
 - SMG - Subfusiles [^1] : Alta cadencia, corta distancia, especializada para interiores.
@@ -79,8 +79,9 @@ Es la distancia en la que el arma es mas efectiva. Si estas fuera de rango. Toma
 
 #### Tipo Municion
 
-- Standard Ammo (SA): Municion Estandar para todas las armas
-- Anti Armadura(AP): Tiene bonificacion a la hora de atravesar armadura. 
+- Estandar (SA): Municion Estandar. Este tipo de muncion es intercambiales con todas las armas que usen SA.
+	- La muncion estandar puede ser otros tipos añadidos. EJ: (SA-AP-3)
+- Anti Armadura(AP): Tiene bonificacion a la hora de atravesar armadura. EJ: AP-5
 - Incendiaria (I): Puede prender fuego al objetivo.
 - Explosiva (EX): Si tiene un numero, indica el area de efecto: EX-10
 - Punta Hueca (HP): Añade daño al arma. Pero la armadura de los enemigos cuenta X veces mas. Ej: *HP-3* Añade 3 al daño normal, pero el enemigo *Tiene* 3 puntos de armadura mas.
